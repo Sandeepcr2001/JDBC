@@ -20,6 +20,15 @@ select -->DRl(data Retrieval language) DQL
 4)Store the result in result set
 5)Close connection
 
+Steps
+-----
+1.import Packages
+2.Load Driver
+3.Register Driver
+4.Create Connection
+5.Create Statement
+6.Execute Statement
+7.Close
 
 */
 
