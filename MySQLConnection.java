@@ -1,3 +1,29 @@
+/*
+JDBC Connection
+----------------
+1) Java(JDK)
+2) Eclipse
+3) Mysql JDBC Driver
+
+insert, update, delete -->DML Commands
+--------------------------------------
+1)Create a connection
+2)Create statement/Query
+3)Execute statement/Query
+4)Close connection
+
+select -->DRl(data Retrieval language) DQL
+------------------------------------------
+1)Create a connection
+2)Create statement/Query
+3)Execute statement/Query
+4)Store the result in result set
+5)Close connection
+
+
+*/
+
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
